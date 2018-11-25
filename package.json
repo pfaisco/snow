@@ -1,0 +1,16 @@
+{
+  "name": "snow-report-app",
+  "version": "1.0.0",
+  "description": "snow app",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "memory-cache": "^0.2.0",
+    "properties-reader": "^0.0.16",
+    "request": "^2.88.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
